@@ -1,0 +1,8 @@
+prefix=/home/me133/catkin_ws/devel
+
+Name: me134_explorer
+Description: Description of me134_explorer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/me133/catkin_ws/devel/lib 
+Requires: 

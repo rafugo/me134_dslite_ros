@@ -1,0 +1,8 @@
+prefix=/home/me133/catkin_ws/devel
+
+Name: dstar_lite
+Description: Description of dstar_lite
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/me133/catkin_ws/devel/lib 
+Requires: nav_core roscpp rospy std_msgs

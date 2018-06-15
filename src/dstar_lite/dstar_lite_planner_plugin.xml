@@ -1,0 +1,5 @@
+<library path="lib/libdstar_lite_lib">
+  <class name="DSlite_planner/DSlitePlannerROS" type="DSlite_planner::DSlitePlannerROS" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is DStar Lite global planner plugin.</description>
+  </class>
+</library>

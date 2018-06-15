@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libdstar_lite_lib.so -o /home/me133/catkin_ws/devel/lib/libdstar_lite_lib.so CMakeFiles/dstar_lite_lib.dir/src/DSlite_ros.cpp.o 
